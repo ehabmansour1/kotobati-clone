@@ -351,7 +351,7 @@ ul {
 .books .container .footer-book span {
   color: var(--main-color);
 }
-.books .container .footer-book i {
+.books .container .footer-book > i {
   color: black;
 }
 /* end books  */
