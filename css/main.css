@@ -342,6 +342,7 @@ ul {
   margin: 10px 0;
   display: flex;
   gap: 4px;
+  justify-content: center;
 }
 .books .container .footer-book .stars {
   color: #e0e0e0;
